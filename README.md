@@ -24,8 +24,8 @@ This dataset contains retail sales data including orders, customers, products, r
   ##  SQL Concepts Practiced
   
   ### 1. Data Exploration:
-     -- SELECT COUNT(*) FROM superstore_sales;
-     -- SELECT * FROM superstore_sales LIMIT 10;
+     - SELECT COUNT(*) FROM superstore_sales;
+     -  SELECT * FROM superstore_sales LIMIT 10;
   - Used to verify successful data import and understand table structure.
 
   ### 2. Filtering (WHERE):
